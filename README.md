@@ -1,1 +1,1 @@
-# https://puderpach.github.io/CMP-V2-Webinar/
+# https://puderpach.github.io/Preview-Publish-Draft/
